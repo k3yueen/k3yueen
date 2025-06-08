@@ -1,6 +1,9 @@
 # me.txt
 i build for web + mobile but currently exploring machine learning because everything else might disappear soon<br><br>also:<br>my personality is Richard Stallman's female version<br>i speak 4 languages<br>write code + content<br>i document my journey on my insta blog bcs AI is cooking us but im too ambitious to gaslight myself, keyboard dependent and conversation unlimited
 
+<img src="https://raw.githubusercontent.com/k3yueen/k3yueen/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acc.osa) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/keyueen) 
